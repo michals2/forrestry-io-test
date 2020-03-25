@@ -1,5 +1,5 @@
 ---
-date: 2019-08-08T22:42:09Z
+date: 2019-08-08T22:42:09.000+00:00
 title: Sunflower Sutra
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
@@ -17,7 +17,7 @@ Look at the Sunflower, he said, there was a dead gray shadow against the sky, bi
 
 \--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+# kkk
 
 and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
 
